@@ -3,7 +3,7 @@ workflow for processing ISMRM Diffusion Study - Best Practices in Image Preproce
 
 Snakemake workflow to run dwi preprocessing.
 
-Uses snakemake & snakedwi, see docs here:
+Uses [snakemake](http://github.com/snakemake/snakemake) & [snakedwi](http://github.com/snakedwi/snakedwi), see docs here:
 
 https://snakemake.readthedocs.io
 
