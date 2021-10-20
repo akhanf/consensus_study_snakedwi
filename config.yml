@@ -1,0 +1,40 @@
+dwi_ap: '../sourcedata/Release/{subject}/dwi/dwi.{ext}'
+dwi_pa: '../sourcedata/Release/{subject}/dwi/b0rpe.{ext}'
+t1w: '../sourcedata/Release/{subject}/anat/t1w_anat.{ext}'
+
+nslices:
+ - 62
+ - 70
+
+subjects:
+ - X0059
+ - X0074
+ - X0112
+ - X0229
+ - X0433
+ - X0597
+ - X0684
+ - X0769
+ - X0890
+ - X0936
+ - Y0181
+ - Y0402
+ - Y0423
+ - Y0654
+ - Y0671
+ - Y0749
+ - Y0759
+ - Y0893
+ - Y0894
+ - Y0964
+ - Z0073
+ - Z0109
+ - Z0212
+ - Z0366
+ - Z0391
+ - Z0423
+ - Z0673
+ - Z0735
+ - Z0772
+ - Z0782
+ - Z0953
