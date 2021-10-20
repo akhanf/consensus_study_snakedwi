@@ -1,4 +1,4 @@
-# dwipreproc_snakedwi
+# consensus_study_snakedwi
 workflow for processing ISMRM Diffusion Study - Best Practices in Image Preprocessing data
 
 Snakemake workflow to run dwi preprocessing.
